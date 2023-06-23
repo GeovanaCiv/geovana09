@@ -1,0 +1,39 @@
+.cabec{
+    display: flex;
+width: 644px;
+height: 69px;
+flex-direction: column;
+flex-shrink: 0;
+color: #FFF5F5;
+text-align: center;
+font-size: 24px;
+font-family: Inter;
+font-weight: 700;
+}
+.cabec-img{
+
+}
+.cabec-texto{
+    display: flex;
+    width: 644px;
+    height: 69px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #FFF5F5;
+text-align: center;
+font-size: 24px;
+font-family: Inter;
+font-weight: 700;
+}
+.corpo{
+    width: 1440px;
+    height: 691px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #FF05E6 0%, rgba(255, 5, 230, 0.00) 100%);
+}
+.corpo-texto{
+    color: #FFF;
+    font-size: 35px;
+    font-family: Inter;
+    font-weight: 800;
+}
