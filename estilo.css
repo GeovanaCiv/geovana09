@@ -1,39 +1,233 @@
-.cabec{
-    display: flex;
-width: 644px;
-height: 69px;
-flex-direction: column;
-flex-shrink: 0;
-color: #FFF5F5;
-text-align: center;
-font-size: 24px;
-font-family: Inter;
-font-weight: 700;
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
 }
-.cabec-img{
-
+.desktop-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 5, 230, 0.49) 0%,
+    rgba(219, 0, 255, 0.28) 99.47916865348816%
+  );
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
 }
-.cabec-texto{
-    display: flex;
-    width: 644px;
-    height: 69px;
-    flex-direction: column;
-    flex-shrink: 0;
-    color: #FFF5F5;
-text-align: center;
-font-size: 24px;
-font-family: Inter;
-font-weight: 700;
+.gatinho-2-1 {
+  border-radius: 24px;
+  width: 254px;
+  height: 222px;
+  position: absolute;
+  left: 242px;
+  top: 374px;
 }
-.corpo{
-    width: 1440px;
-    height: 691px;
-    flex-shrink: 0;
-    background: linear-gradient(180deg, #FF05E6 0%, rgba(255, 5, 230, 0.00) 100%);
+.corinthianszinhoooo-1 {
+  border-radius: 21px;
+  width: 254px;
+  height: 222px;
+  position: absolute;
+  left: 949px;
+  top: 374px;
 }
-.corpo-texto{
-    color: #FFF;
-    font-size: 35px;
-    font-family: Inter;
-    font-weight: 800;
+.gustavo-mioto {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 650px;
+  top: 922px;
+}
+.a-aizinhooooooooo-1 {
+  border-radius: 27px;
+  width: 254px;
+  height: 222px;
+  position: absolute;
+  left: 242px;
+  top: 697px;
+}
+.matematicazinhaaaaaaaaaaaa-1 {
+  border-radius: 21px;
+  width: 254px;
+  height: 222px;
+  position: absolute;
+  left: 956px;
+  top: 697px;
+}
+.gatinho {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 330px;
+  top: 608px;
+}
+.voleibol {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 684px;
+  top: 608px;
+}
+.corinthians {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 1018px;
+  top: 608px;
+}
+.a-aizinho {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 308px;
+  top: 922px;
+}
+.cantor-fav {
+  color: #fff5f5;
+  text-align: left;
+  font: 400 35px "Inter", sans-serif;
+  position: absolute;
+  left: 633px;
+  top: 655px;
+}
+.materia {
+  color: #fff5f5;
+  text-align: left;
+  font: 400 35px "Inter", sans-serif;
+  position: absolute;
+  left: 1016px;
+  top: 655px;
+}
+.matem-tica {
+  color: #fff5f5;
+  text-align: left;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 1016px;
+  top: 922px;
+}
+.comida {
+  color: #fff5f5;
+  text-align: left;
+  font: 400 35px "Inter", sans-serif;
+  position: absolute;
+  left: 309px;
+  top: 655px;
+  width: 131px;
+  height: 30px;
+}
+.um-pouco-sobre-mim {
+  color: #ffffff;
+  text-align: left;
+  font: 800 35px "Inter", sans-serif;
+  position: absolute;
+  left: 531px;
+  top: 263px;
+}
+.animal {
+  color: #fff5f5;
+  text-align: left;
+  font: 400 35px "Inter", sans-serif;
+  position: absolute;
+  left: 309px;
+  top: 332px;
+}
+.esporte {
+  color: #fff5f5;
+  text-align: left;
+  font: 400 35px "Inter", sans-serif;
+  position: absolute;
+  left: 668px;
+  top: 332px;
+}
+.time {
+  color: #fff5f5;
+  text-align: left;
+  font: 400 35px "Inter", sans-serif;
+  position: absolute;
+  left: 1035px;
+  top: 332px;
+}
+.gustavinho-2-1 {
+  border-radius: 21px;
+  width: 254px;
+  height: 222px;
+  position: absolute;
+  left: 599px;
+  top: 697px;
+}
+.voleizin-de-cria-1 {
+  border-radius: 22px;
+  width: 254px;
+  height: 222px;
+  position: absolute;
+  left: 606px;
+  top: 374px;
+}
+.ol-me-chamo-geovana-tenho-17-anos-estudo-no-colegio-estadual-civico-militar-vila-guaira {
+  color: #fff5f5;
+  text-align: center;
+  font: 700 40px "Inter", sans-serif;
+  position: absolute;
+  left: 401px;
+  top: 74px;
+  width: 917px;
+  height: 85px;
+}
+.amor-n-o-se-conjuga-no-passado-ou-se-ama-para-sempre-ou-nunca-se-amou-verdadeiramente {
+  text-align: left;
+  position: absolute;
+  left: 318px;
+  top: 983px;
+  width: 862px;
+  height: 41px;
+}
+.amor-n-o-se-conjuga-no-passado-ou-se-ama-para-sempre-ou-nunca-se-amou-verdadeiramente-span {
+  color: #ffffff;
+  font: 400 18.18px "Alfa Slab One", sans-serif;
+}
+.amor-n-o-se-conjuga-no-passado-ou-se-ama-para-sempre-ou-nunca-se-amou-verdadeiramente-span2 {
+  color: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #ffffff, #ffffff);
+  font: 400 30.3px "Alfa Slab One", sans-serif;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 5, 230, 1) 0%,
+    rgba(255, 5, 230, 0.28) 63.54166865348816%
+  );
+  width: 1412px;
+  height: 118px;
+  position: absolute;
+  left: 95px;
+  top: 1033px;
+}
+.avatar-geoo-1 {
+  width: 376px;
+  height: 364px;
+  position: absolute;
+  left: 43px;
+  top: -59px;
+}
+.frame-2 {
+  background: #000000;
+  width: 1440px;
+  height: 12px;
+  position: absolute;
+  left: 0px;
+  top: 308px;
+  overflow: hidden;
+}
+.frame-3 {
+  background: #000000;
+  width: 1440px;
+  height: 12px;
+  position: absolute;
+  left: 0px;
+  top: 961px;
+  overflow: hidden;
 }
